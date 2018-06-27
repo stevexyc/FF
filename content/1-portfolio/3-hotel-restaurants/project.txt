@@ -1,0 +1,25 @@
+Title: Creating Experiences
+
+----
+
+Type: Commercial
+
+----
+
+Tagline: Orchestrating magical adventures worldwide
+
+----
+
+Text: Beauty, comfort and luxury – Favreau Design’s hotel and restaurant designs are high-concept and original. Guests return repeatedly because the visual feast is unlike anything they have ever experienced. At Favreau Design, we are interested in the grand nature of space and its ability to be intimate and embracing at the same time. Whether an international city or remote countryside our designs are always, lush, layered, exciting, sexy and bold.
+
+----
+
+Custom: portfolio
+
+----
+
+Image1: HR_003.jpg
+
+----
+
+Image2: HR_001.jpg

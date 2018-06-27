@@ -1,0 +1,25 @@
+Title: Modern Estate
+
+----
+
+Type: Residential
+
+----
+
+Tagline: 
+
+----
+
+Text: Favreau Design created this modern day 15,000 square foot estate with attention to every detail for a busy family. Fine woodwork, soaring ceilings, a gym-spa with sauna and jacuzzi, a wine room and movie theatre complete with concession stand make this home one of the finest on the street. State of the art systems and smart home features place it soundly in the tech center of the Silicon Valley. Favreau Design also created the Olympic-sized pool and fountains and a 1,200 square foot guest house situated on 3 acres in Atherton, California.
+
+----
+
+Custom: portfolio
+
+----
+
+Image1: AthEst_001.jpg
+
+----
+
+Image2: AthEst_002.jpg

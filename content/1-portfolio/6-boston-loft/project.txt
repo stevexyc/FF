@@ -1,0 +1,25 @@
+Title: Lofty Goals
+
+----
+
+Type: Residential
+
+----
+
+Tagline: Transforming the unexpected
+
+----
+
+Text: We love loft living and Boston’s Warehouse district is comprised of some of the city’s most innovative and industrial spaces. A designer’s dream, Favreau Design transformed a large open space into five courageous and exciting living spaces.
+
+----
+
+Custom: portfolio
+
+----
+
+Image1: IL_001.jpg
+
+----
+
+Image2: IL_002.jpg

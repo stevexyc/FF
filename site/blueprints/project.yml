@@ -6,16 +6,61 @@ files:
 pages: false
 
 fields:
+
   title:
     label: Title
     type:  text
     width: 3/4
 
-  year:
-    label: Year
-    type:  text
+  custom:
+    label: Post Type
+    type: select
+    default: portfolio
+    options: 
+      portfolio: Portfolio
+      quotebox: Quote Box
+      imageBox: Image Box
+      customHTML: Custom HTML 
     width: 1/4
+
+  tagline:
+    label: Tagline
+    type:  text
+    width: 3/4
+
+  type:
+    label: Category
+    type:  select
+    options: 
+      Residential: Residential
+      Commercial: Commercial
+    width: 1/4
+    default: Residential
+
+
+  image1:
+    label: Featured Image 1
+    type: image
+    width: 1/2
+
+  image2:
+    label: Featured Image 2
+    type: image
+    width: 1/2
 
   text:
     label: Text
     type:  textarea
+
+  line:
+    type: line
+
+  customButton: 
+    label: customButtonText
+    type: text
+    width: 1/2
+
+  customButtonLink: 
+    label: customButtonLink
+    type: url
+    width: 1/2
